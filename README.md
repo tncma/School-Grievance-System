@@ -48,4 +48,4 @@ Admin page is at:
 http://edugreive-romil93.rhcloud.com/admin
 
 About the app:
-The app is created using simple PHP and HTML and hosted on an open source platform OpenShift. People who intend to work on this app require a good knowledge of web development and must be able to work with HTML,CSS,PHP,JavaScript,MySql and must be comfortable with using Apache server and Bootstrap.css
+The app is created using simple PHP and HTML and hosted on an open source platform OpenShift. People who intend to work on this app require a good knowledge of web development and must be able to work with HTML,CSS,PHP,JavaScript,MySql and must be comfortable with using Apache server and Bootstrap.css.
