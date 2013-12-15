@@ -51,9 +51,11 @@ session_start();
             <div class="page-header">
               <h1 id="tables">Tables</h1>
             </div>
-			<script>function change();
+			<script>function change(el);
 {
-document.getElementById("main1").innerHTML="Resolved";
+if(el.innerHTML == "Resolve this?"){
+el.innerHTML = 'Resolved';
+}
 }</script>
             <div class="bs-example table-responsive">
               <table class="table table-striped table-bordered table-hover">
@@ -81,7 +83,7 @@ document.getElementById("main1").innerHTML="Resolved";
                     <td>'.$row[6].'</td>
                     <td>'.$row[1].'</td>
                     <td>'.$row[2].'</td>
-                    <td><button type="button" onclick="change()" id="main1" class="btn btn-primary">Resolve this?</button></td>
+                    <td><button type="button" onclick="change(this)" id="main1" class="btn btn-primary">Resolve this?</button></td>
                   </tr>';}
                 ?>
                 </tbody>
