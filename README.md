@@ -1,6 +1,7 @@
 School-Grievance-System
 =======================
 Team Members:
+
 Madhusudhan.K [CHENNAI]
 
 Romil Kumar Vasani [COIMBATORE]
@@ -36,3 +37,12 @@ The system might not be able to sell itself an effective system because people a
 
 Scope:
 The system is one for the future. This system will help in Unique Identification of each student in Tamilnadu and that would help in many other ways. Also, it will become a system where the students have a voice.
+
+
+App is hosted on OpenShift at:
+
+http://edugreive-romil93.rhcloud.com/
+
+Admin page is at:
+
+http://edugreive-romil93.rhcloud.com/admin
