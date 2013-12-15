@@ -3,7 +3,8 @@ School-Grievance-System
 Team Members:
 Madhusudhan.K [CHENNAI]
 Romil Kumar Vasani [COIMBATORE]
-------------------------------------------------------------------------------------------------------------------------
+
+
 Problem:
 
 There are government schools in every locality all over Tamilnadu. Each school has its own set of problems and we often
