@@ -22,7 +22,7 @@ The School Grievance System will be a portal for parents and students to send th
 grievances. This visit would take place on every saturday.
 
 Working of the system:
-Every day, at midnight, the 'Complaints' daabase will be sorted with respect to number of grievances per school. The
+Every day, at midnight, the 'Complaints' database will be sorted with respect to number of grievances per school. The
 education officer can visit the schools any time during the week to resolve the grievances. This is an optional visit.
 However, the weekend visit will be mandatory. On Saturday morning, the Education Officer will get a mail telling him which
 schools must be visited that day. He must go and resolve the grievances in all of those schools. So, for any grievance registered, the maximum resolve time would be 7 days. 
